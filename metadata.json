@@ -1,0 +1,6 @@
+{
+  "name": "ApexPDF Editor",
+  "description": "Advanced full-featured PDF editing app with annotation, redaction, electronic signatures, OCR, cloud sync, and Gemini AI high thinking assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
